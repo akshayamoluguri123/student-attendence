@@ -48,7 +48,7 @@ The system also tells how many more classes a student must attend to reach the r
 
 ## 🌐 Live Demo
 
- [click here](https://student-attendence-4l2b.onrender.com)
+ [click here](https://student-attendence-4i2b.onrender.com)
 
 ---
 
